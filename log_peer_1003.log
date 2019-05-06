@@ -1,0 +1,955 @@
+2019/04/11 23:54:53: Peer [1003] makes a connection to Peer [1001].
+2019/04/11 23:54:53: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:54:53: Peer [1003] makes a connection to Peer [1002].
+2019/04/11 23:54:53: Peer [1003] received the 'not interested' message from [1002].
+2019/04/11 23:54:53: Peer [1003] is unchoked by [1002].
+2019/04/11 23:54:53: Peer [1003] has downloaded the piece 15 from [1002].
+Now the number of pieces it has is: 1.
+2019/04/11 23:54:53: Peer [1003] has downloaded the piece 1 from [1002].
+Now the number of pieces it has is: 2.
+2019/04/11 23:54:53: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:54:53: Peer [1003] received the 'not interested' message from [1002].
+2019/04/11 23:54:53: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:54:53: Peer [1003] has downloaded the piece 11 from [1002].
+Now the number of pieces it has is: 3.
+2019/04/11 23:54:53: Peer [1003] received the 'not interested' message from [1002].
+2019/04/11 23:54:53: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:54:53: Peer [1003] received the 'not interested' message from [1002].
+2019/04/11 23:54:58: Peer [1003] is connected from Peer [1004].
+2019/04/11 23:54:58: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1004] for the piece: 11.
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1004] for the piece: 15.
+2019/04/11 23:54:58: Peer [1003] is choked by [1004].
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1004] for the piece: 1.
+2019/04/11 23:54:58: Peer [1003] is unchoked by [1001].
+2019/04/11 23:54:58: Peer [1003] has downloaded the piece 17 from [1001].
+Now the number of pieces it has is: 4.
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1002] for the piece: 12.
+2019/04/11 23:54:58: Peer [1003] has downloaded the piece 13 from [1001].
+Now the number of pieces it has is: 5.
+2019/04/11 23:54:58: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:54:58: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1002] for the piece: 19.
+2019/04/11 23:54:58: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:54:58: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:54:58: Peer [1003] has downloaded the piece 14 from [1001].
+Now the number of pieces it has is: 6.
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1002] for the piece: 0.
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:54:58: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:54:58: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1002] for the piece: 17.
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1004] for the piece: 17.
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1002] for the piece: 13.
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1002] for the piece: 14.
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1004] for the piece: 14.
+2019/04/11 23:54:58: Peer [1003] is choked by [1004].
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1004] for the piece: 13.
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1004] for the piece: 12.
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1004] for the piece: 19.
+2019/04/11 23:54:58: Peer [1003] is unchoked by [1004].
+2019/04/11 23:54:58: Peer [1003] received 'have' message from [1004] for the piece: 7.
+2019/04/11 23:54:58: Peer [1003] has downloaded the piece 19 from [1004].
+Now the number of pieces it has is: 7.
+2019/04/11 23:54:58: Peer [1003] has downloaded the piece 12 from [1004].
+Now the number of pieces it has is: 8.
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1002].
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1004].
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1002].
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:54:58: Peer [1003] has downloaded the piece 7 from [1004].
+Now the number of pieces it has is: 9.
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1004].
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1002].
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:54:58: Peer [1003] received the 'not interested' message from [1004].
+2019/04/11 23:55:03: Peer [1003] is unchoked by [1004].
+2019/04/11 23:55:03: Peer [1003] is connected from Peer [1005].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:03: Peer [1003] received 'have' message from [1004] for the piece: 0.
+2019/04/11 23:55:03: Peer [1003] received 'have' message from [1004] for the piece: 16.
+2019/04/11 23:55:03: Peer [1003] received 'have' message from [1004] for the piece: 4.
+2019/04/11 23:55:03: Peer [1003] received 'have' message from [1005] for the piece: 16.
+2019/04/11 23:55:03: Peer [1003] received 'have' message from [1005] for the piece: 10.
+2019/04/11 23:55:03: Peer [1003] received 'have' message from [1005] for the piece: 6.
+2019/04/11 23:55:03: Peer [1003] is unchoked by [1005].
+2019/04/11 23:55:03: Peer [1003] has downloaded the piece 16 from [1005].
+Now the number of pieces it has is: 10.
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:03: Peer [1003] has downloaded the piece 10 from [1005].
+Now the number of pieces it has is: 11.
+2019/04/11 23:55:03: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:03: Peer [1003] received the 'not interested' message from [1004].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:03: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:03: Peer [1003] has downloaded the piece 6 from [1005].
+Now the number of pieces it has is: 12.
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:03: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:03: Peer [1003] received 'have' message from [1004] for the piece: 10.
+2019/04/11 23:55:03: Peer [1003] received 'have' message from [1004] for the piece: 6.
+2019/04/11 23:55:03: Peer [1003] is unchoked by [1002].
+2019/04/11 23:55:03: Peer [1003] has downloaded the piece 18 from [1002].
+Now the number of pieces it has is: 13.
+2019/04/11 23:55:03: Peer [1003] has downloaded the piece 0 from [1002].
+Now the number of pieces it has is: 14.
+2019/04/11 23:55:03: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:03: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:03: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:08: Peer [1003] received 'have' message from [1002] for the piece: 4.
+2019/04/11 23:55:08: Peer [1003] received 'have' message from [1002] for the piece: 16.
+2019/04/11 23:55:08: Peer [1003] received 'have' message from [1002] for the piece: 10.
+2019/04/11 23:55:08: Peer [1003] is unchoked by [1001].
+2019/04/11 23:55:08: Peer [1003] has downloaded the piece 21 from [1001].
+Now the number of pieces it has is: 15.
+2019/04/11 23:55:08: Peer [1003] received 'have' message from [1004] for the piece: 18.
+2019/04/11 23:55:08: Peer [1003] has downloaded the piece 5 from [1001].
+Now the number of pieces it has is: 16.
+2019/04/11 23:55:08: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:08: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:08: Peer [1003] received 'have' message from [1004] for the piece: 3.
+2019/04/11 23:55:08: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:08: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:08: Peer [1003] has downloaded the piece 8 from [1001].
+Now the number of pieces it has is: 17.
+2019/04/11 23:55:08: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:08: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:08: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:08: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:08: Peer [1003] received 'have' message from [1004] for the piece: 2.
+2019/04/11 23:55:08: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:08: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:08: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:08: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:13: Peer [1003] is unchoked by [1001].
+2019/04/11 23:55:13: Peer [1003] has downloaded the piece 2 from [1001].
+Now the number of pieces it has is: 18.
+2019/04/11 23:55:13: Peer [1003] received 'have' message from [1002] for the piece: 21.
+2019/04/11 23:55:13: Peer [1003] has downloaded the piece 20 from [1001].
+Now the number of pieces it has is: 19.
+2019/04/11 23:55:13: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:13: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:13: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:13: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:13: Peer [1003] received 'have' message from [1002] for the piece: 20.
+2019/04/11 23:55:13: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:13: Peer [1003] has downloaded the piece 9 from [1001].
+Now the number of pieces it has is: 20.
+2019/04/11 23:55:13: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:13: Peer [1003] received 'have' message from [1002] for the piece: 9.
+2019/04/11 23:55:13: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:13: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:13: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:13: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:13: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:13: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:18: Peer [1003] is unchoked by [1001].
+2019/04/11 23:55:18: Peer [1003] has downloaded the piece 3 from [1001].
+Now the number of pieces it has is: 21.
+2019/04/11 23:55:18: Peer [1003] received 'have' message from [1005] for the piece: 3.
+2019/04/11 23:55:18: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:18: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:18: Peer [1003] has downloaded the piece 4 from [1001].
+Now the number of pieces it has is: 22.
+2019/04/11 23:55:18: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:18: Peer [1003] has downloaded the complete file 
+2019/04/11 23:55:18: Peer [1003] received 'have' message from [1005] for the piece: 14.
+2019/04/11 23:55:18: Peer [1003] is choked by [1005].
+2019/04/11 23:55:18: Peer [1003] received 'have' message from [1005] for the piece: 9.
+2019/04/11 23:55:18: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:18: Peer [1003] received the 'interested' message from [1002].
+2019/04/11 23:55:18: Peer [1003] received the 'interested' message from [1004].
+2019/04/11 23:55:18: Peer [1003] received the 'not interested' message from [1001].
+2019/04/11 23:55:18: Peer [1003] received the 'interested' message from [1005].
+2019/04/11 23:55:23: Peer [1003] received 'have' message from [1002] for the piece: 2.
+2019/04/11 23:55:23: Peer [1003] received 'have' message from [1004] for the piece: 21.
+2019/04/11 23:55:23: Peer [1003] received 'have' message from [1002] for the piece: 3.
+2019/04/11 23:55:23: Peer [1003] received 'have' message from [1004] for the piece: 5.
+2019/04/11 23:55:23: Peer [1003] is choked by [1002].
+2019/04/11 23:55:23: Peer [1003] is choked by [1004].
+2019/04/11 23:55:23: Peer [1003] received 'have' message from [1004] for the piece: 20.
+2019/04/11 23:55:23: Peer [1003] received 'have' message from [1002] for the piece: 8.
+2019/04/11 23:55:28: Peer [1003] is unchoked by [1001].
+2019/04/11 23:55:28: Peer [1003] received 'have' message from [1005] for the piece: 17.
+2019/04/11 23:55:28: Peer [1003] received 'have' message from [1005] for the piece: 0.
+2019/04/11 23:55:28: Peer [1003] received 'have' message from [1005] for the piece: 20.
+2019/04/11 23:55:30: Peer [1003] is connected from Peer [1006].
+2019/04/11 23:55:30: Peer [1003] received the 'interested' message from [1006].
+2019/04/11 23:55:33: Peer [1003] is choked by [1001].
+2019/04/11 23:55:33: Peer [1003] received 'have' message from [1002] for the piece: 5.
+2019/04/11 23:55:33: Peer [1003] received 'have' message from [1006] for the piece: 16.
+2019/04/11 23:55:33: Peer [1003] received 'have' message from [1006] for the piece: 3.
+2019/04/11 23:55:33: Peer [1003] received 'have' message from [1006] for the piece: 9.
+2019/04/11 23:55:33: Peer [1003] received 'have' message from [1004] for the piece: 9.
+2019/04/11 23:55:38: Peer [1003] received 'have' message from [1004] for the piece: 8.
+2019/04/11 23:55:48: Peer [1003] is unchoked by [1001].
+2019/04/11 23:55:48: Peer [1003] received 'have' message from [1006] for the piece: 10.
+2019/04/11 23:55:48: Peer [1003] received 'have' message from [1006] for the piece: 19.
+2019/04/11 23:55:48: Peer [1003] received 'have' message from [1006] for the piece: 4.
+2019/04/11 23:55:50: Peer [1003] received 'have' message from [1005] for the piece: 19.
+2019/04/11 23:55:50: Peer [1003] received 'have' message from [1005] for the piece: 4.
+2019/04/11 23:55:58: Peer [1003] received 'have' message from [1006] for the piece: 5.
+2019/04/11 23:55:58: Peer [1003] received 'have' message from [1006] for the piece: 20.
+2019/04/11 23:55:58: Peer [1003] received 'have' message from [1006] for the piece: 21.
+2019/04/11 23:56:03: Peer [1003] received 'have' message from [1005] for the piece: 5.
+2019/04/11 23:56:03: Peer [1003] received 'have' message from [1005] for the piece: 15.
+2019/04/11 23:56:03: Peer [1003] received 'have' message from [1005] for the piece: 13.
+2019/04/11 23:56:13: Peer [1003] is choked by [1001].
+2019/04/11 23:56:13: Peer [1003] received 'have' message from [1006] for the piece: 7.
+2019/04/11 23:56:13: Peer [1003] received 'have' message from [1005] for the piece: 1.
+2019/04/11 23:56:13: Peer [1003] received 'have' message from [1005] for the piece: 11.
+2019/04/11 23:56:13: Peer [1003] received 'have' message from [1006] for the piece: 14.
+2019/04/11 23:56:13: Peer [1003] received 'have' message from [1005] for the piece: 7.
+2019/04/11 23:56:13: Peer [1003] received 'have' message from [1006] for the piece: 18.
+2019/04/11 23:56:18: Peer [1003] received 'have' message from [1005] for the piece: 21.
+2019/04/11 23:56:18: Peer [1003] received 'have' message from [1005] for the piece: 18.
+2019/04/11 23:56:18: Peer [1003] received 'have' message from [1005] for the piece: 12.
+2019/04/11 23:56:23: Peer [1003] is unchoked by [1001].
+2019/04/11 23:56:28: Peer [1003] is choked by [1001].
+2019/04/11 23:56:28: Peer [1003] received 'have' message from [1005] for the piece: 8.
+2019/04/11 23:56:28: Peer [1003] received 'have' message from [1005] for the piece: 2.
+2019/04/11 23:56:33: Peer [1003] is unchoked by [1001].
+2019/04/11 23:56:33: Peer [1003] received 'have' message from [1006] for the piece: 13.
+2019/04/11 23:56:33: Peer [1003] received 'have' message from [1006] for the piece: 11.
+2019/04/11 23:56:33: Peer [1003] received 'have' message from [1006] for the piece: 15.
+2019/04/11 23:56:38: Peer [1003] is choked by [1001].
+2019/04/11 23:56:53: Peer [1003] received 'have' message from [1006] for the piece: 8.
+2019/04/11 23:56:53: Peer [1003] received 'have' message from [1006] for the piece: 0.
+2019/04/11 23:56:53: Peer [1003] received 'have' message from [1006] for the piece: 2.
+2019/04/11 23:56:58: Peer [1003] is unchoked by [1001].
+2019/04/11 23:57:03: Peer [1003] received 'have' message from [1006] for the piece: 12.
+2019/04/11 23:57:03: Peer [1003] received 'have' message from [1006] for the piece: 6.
+2019/04/11 23:57:03: Peer [1003] received 'have' message from [1006] for the piece: 17.
+2019/04/11 23:57:13: Peer [1003] received 'have' message from [1006] for the piece: 1.
+2019/04/12 00:03:32: Peer [1003] makes a connection to Peer [1001].
+2019/04/12 00:03:32: Peer [1003] makes a connection to Peer [1002].
+2019/04/12 00:03:39: Peer [1003] is connected from Peer [1004].
+2019/04/12 00:03:44: Peer [1003] is connected from Peer [1005].
+2019/04/12 00:03:48: Peer [1003] is connected from Peer [1006].
+2019/04/12 00:03:48: Peer [1003] received the 'not interested' message from [1006].
+2019/04/12 00:08:08: Peer [1003] makes a connection to Peer [1001].
+2019/04/12 00:08:08: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:08: Peer [1003] makes a connection to Peer [1002].
+2019/04/12 00:08:08: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:08:08: Peer [1003] is unchoked by [1002].
+2019/04/12 00:08:08: Peer [1003] has downloaded the piece 4 from [1002].
+1.
+2019/04/12 00:08:08: Peer [1003] has downloaded the piece 12 from [1002].
+2.
+2019/04/12 00:08:08: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:08: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:08:08: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:08: Peer [1003] has downloaded the piece 19 from [1002].
+3.
+2019/04/12 00:08:08: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:08:08: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:08: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:08:09: Peer [1003] is unchoked by [1002].
+2019/04/12 00:08:09: Peer [1003] has downloaded the piece 15 from [1002].
+4.
+2019/04/12 00:08:09: Peer [1003] has downloaded the piece 1 from [1002].
+5.
+2019/04/12 00:08:09: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:09: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:08:09: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:09: Peer [1003] has downloaded the piece 3 from [1002].
+6.
+2019/04/12 00:08:09: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:08:09: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:08:09: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:09: Peer [1003] is unchoked by [1001].
+2019/04/12 00:08:09: Peer [1003] has downloaded the piece 14 from [1001].
+7.
+2019/04/12 00:08:09: Peer [1003] received 'have' message from [1002] for the piece: 2.
+2019/04/12 00:08:09: Peer [1003] has downloaded the piece 5 from [1001].
+8.
+2019/04/12 00:08:09: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:08:09: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:09: Peer [1003] received 'have' message from [1002] for the piece: 21.
+2019/04/12 00:08:09: Peer [1003] has downloaded the piece 6 from [1001].
+9.
+2019/04/12 00:08:09: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:08:09: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:09: Peer [1003] received 'have' message from [1002] for the piece: 18.
+2019/04/12 00:08:09: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:09: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:08:09: Peer [1003] received 'have' message from [1002] for the piece: 14.
+2019/04/12 00:08:09: Peer [1003] received 'have' message from [1002] for the piece: 5.
+2019/04/12 00:08:09: Peer [1003] received 'have' message from [1002] for the piece: 6.
+2019/04/12 00:08:12: Peer [1003] is connected from Peer [1004].
+2019/04/12 00:08:12: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:08:13: Peer [1003] received 'have' message from [1004] for the piece: 19.
+2019/04/12 00:08:13: Peer [1003] received 'have' message from [1004] for the piece: 4.
+2019/04/12 00:08:13: Peer [1003] is choked by [1004].
+2019/04/12 00:08:13: Peer [1003] received 'have' message from [1004] for the piece: 15.
+2019/04/12 00:08:14: Peer [1003] received 'have' message from [1004] for the piece: 5.
+2019/04/12 00:08:14: Peer [1003] received 'have' message from [1004] for the piece: 2.
+2019/04/12 00:08:14: Peer [1003] is unchoked by [1004].
+2019/04/12 00:08:14: Peer [1003] received 'have' message from [1004] for the piece: 21.
+2019/04/12 00:08:14: Peer [1003] has downloaded the piece 2 from [1004].
+10.
+2019/04/12 00:08:14: Peer [1003] has downloaded the piece 21 from [1004].
+11.
+2019/04/12 00:08:14: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:08:14: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:14: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:08:14: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:14: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:08:14: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:08:14: Peer [1003] is unchoked by [1001].
+2019/04/12 00:08:14: Peer [1003] has downloaded the piece 17 from [1001].
+12.
+2019/04/12 00:08:14: Peer [1003] received 'have' message from [1002] for the piece: 8.
+2019/04/12 00:08:14: Peer [1003] has downloaded the piece 20 from [1001].
+13.
+2019/04/12 00:08:14: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:08:14: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:08:14: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:14: Peer [1003] received 'have' message from [1002] for the piece: 9.
+2019/04/12 00:08:14: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:08:14: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:08:14: Peer [1003] received 'have' message from [1002] for the piece: 17.
+2019/04/12 00:08:14: Peer [1003] has downloaded the piece 8 from [1001].
+14.
+2019/04/12 00:08:14: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:14: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:08:14: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:08:14: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:16: Peer [1003] is connected from Peer [1005].
+2019/04/12 00:08:16: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:08:17: Peer [1003] received 'have' message from [1005] for the piece: 2.
+2019/04/12 00:08:17: Peer [1003] received 'have' message from [1005] for the piece: 15.
+2019/04/12 00:08:17: Peer [1003] received 'have' message from [1005] for the piece: 5.
+2019/04/12 00:08:18: Peer [1003] received 'have' message from [1002] for the piece: 20.
+2019/04/12 00:08:19: Peer [1003] received 'have' message from [1005] for the piece: 6.
+2019/04/12 00:08:19: Peer [1003] received 'have' message from [1002] for the piece: 10.
+2019/04/12 00:08:19: Peer [1003] received 'have' message from [1002] for the piece: 16.
+2019/04/12 00:08:19: Peer [1003] received 'have' message from [1005] for the piece: 4.
+2019/04/12 00:08:19: Peer [1003] received 'have' message from [1002] for the piece: 7.
+2019/04/12 00:08:19: Peer [1003] received 'have' message from [1005] for the piece: 16.
+2019/04/12 00:08:19: Peer [1003] received 'have' message from [1004] for the piece: 6.
+2019/04/12 00:08:19: Peer [1003] received 'have' message from [1004] for the piece: 16.
+2019/04/12 00:08:19: Peer [1003] is choked by [1004].
+2019/04/12 00:08:20: Peer [1003] is connected from Peer [1006].
+2019/04/12 00:08:20: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:08:24: Peer [1003] is unchoked by [1001].
+2019/04/12 00:08:24: Peer [1003] has downloaded the piece 11 from [1001].
+15.
+2019/04/12 00:08:24: Peer [1003] has downloaded the piece 7 from [1001].
+16.
+2019/04/12 00:08:24: Peer [1003] received 'have' message from [1005] for the piece: 10.
+2019/04/12 00:08:24: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:08:24: Peer [1003] has downloaded the piece 16 from [1001].
+17.
+2019/04/12 00:08:24: Peer [1003] received 'have' message from [1005] for the piece: 20.
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:08:24: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:08:24: Peer [1003] received 'have' message from [1005] for the piece: 8.
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:08:24: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:08:24: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:08:29: Peer [1003] received 'have' message from [1004] for the piece: 20.
+2019/04/12 00:08:29: Peer [1003] received 'have' message from [1005] for the piece: 12.
+2019/04/12 00:08:29: Peer [1003] received 'have' message from [1005] for the piece: 3.
+2019/04/12 00:08:29: Peer [1003] received 'have' message from [1004] for the piece: 1.
+2019/04/12 00:08:29: Peer [1003] received 'have' message from [1005] for the piece: 13.
+2019/04/12 00:08:29: Peer [1003] received 'have' message from [1004] for the piece: 0.
+2019/04/12 00:08:34: Peer [1003] received 'have' message from [1005] for the piece: 0.
+2019/04/12 00:08:34: Peer [1003] received 'have' message from [1005] for the piece: 1.
+2019/04/12 00:08:34: Peer [1003] received 'have' message from [1005] for the piece: 19.
+2019/04/12 00:08:34: Peer [1003] received 'have' message from [1006] for the piece: 13.
+2019/04/12 00:08:34: Peer [1003] is unchoked by [1006].
+2019/04/12 00:08:34: Peer [1003] received 'have' message from [1006] for the piece: 19.
+2019/04/12 00:08:34: Peer [1003] has downloaded the piece 13 from [1006].
+18.
+2019/04/12 00:08:34: Peer [1003] received 'have' message from [1006] for the piece: 9.
+2019/04/12 00:08:34: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:08:34: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:08:34: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:08:34: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:08:34: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:08:35: Peer [1003] received 'have' message from [1005] for the piece: 9.
+2019/04/12 00:08:39: Peer [1003] received 'have' message from [1002] for the piece: 13.
+2019/04/12 00:08:39: Peer [1003] received 'have' message from [1005] for the piece: 17.
+2019/04/12 00:08:39: Peer [1003] received 'have' message from [1002] for the piece: 11.
+2019/04/12 00:08:39: Peer [1003] received 'have' message from [1005] for the piece: 7.
+2019/04/12 00:08:39: Peer [1003] received 'have' message from [1005] for the piece: 21.
+2019/04/12 00:08:39: Peer [1003] received 'have' message from [1002] for the piece: 0.
+2019/04/12 00:08:44: Peer [1003] received 'have' message from [1005] for the piece: 11.
+2019/04/12 00:08:44: Peer [1003] received 'have' message from [1005] for the piece: 18.
+2019/04/12 00:08:44: Peer [1003] received 'have' message from [1005] for the piece: 14.
+2019/04/12 00:08:49: Peer [1003] received 'have' message from [1004] for the piece: 10.
+2019/04/12 00:08:49: Peer [1003] received 'have' message from [1004] for the piece: 17.
+2019/04/12 00:08:49: Peer [1003] received 'have' message from [1004] for the piece: 7.
+2019/04/12 00:08:54: Peer [1003] received 'have' message from [1006] for the piece: 12.
+2019/04/12 00:08:54: Peer [1003] received 'have' message from [1006] for the piece: 2.
+2019/04/12 00:08:54: Peer [1003] received 'have' message from [1006] for the piece: 1.
+2019/04/12 00:08:59: Peer [1003] received 'have' message from [1006] for the piece: 16.
+2019/04/12 00:08:59: Peer [1003] received 'have' message from [1006] for the piece: 4.
+2019/04/12 00:08:59: Peer [1003] received 'have' message from [1006] for the piece: 21.
+2019/04/12 00:09:04: Peer [1003] is unchoked by [1001].
+2019/04/12 00:09:04: Peer [1003] has downloaded the piece 18 from [1001].
+19.
+2019/04/12 00:09:04: Peer [1003] has downloaded the piece 9 from [1001].
+20.
+2019/04/12 00:09:04: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:09:04: Peer [1003] received the 'not interested' message from [1005].
+2019/04/12 00:09:04: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:09:04: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:09:04: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:09:04: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:09:04: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:09:04: Peer [1003] has downloaded the piece 0 from [1001].
+21.
+2019/04/12 00:09:04: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:09:04: Peer [1003] received the 'not interested' message from [1005].
+2019/04/12 00:09:04: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:09:04: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:09:04: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:09:04: Peer [1003] received the 'not interested' message from [1005].
+2019/04/12 00:09:04: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:09:04: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:09:09: Peer [1003] is unchoked by [1001].
+2019/04/12 00:09:09: Peer [1003] has downloaded the piece 10 from [1001].
+22.
+2019/04/12 00:09:09: Peer [1003] received 'have' message from [1004] for the piece: 14.
+2019/04/12 00:09:09: Peer [1003] has downloaded the complete file 
+2019/04/12 00:09:09: Peer [1003] received 'have' message from [1004] for the piece: 11.
+2019/04/12 00:09:09: Peer [1003] received 'have' message from [1004] for the piece: 3.
+2019/04/12 00:09:09: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:09:09: Peer [1003] received the 'not interested' message from [1005].
+2019/04/12 00:09:09: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:09:09: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:09:09: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:09:14: Peer [1003] received 'have' message from [1006] for the piece: 18.
+2019/04/12 00:09:14: Peer [1003] received 'have' message from [1004] for the piece: 8.
+2019/04/12 00:09:14: Peer [1003] received 'have' message from [1004] for the piece: 9.
+2019/04/12 00:09:14: Peer [1003] received 'have' message from [1006] for the piece: 3.
+2019/04/12 00:09:14: Peer [1003] received 'have' message from [1004] for the piece: 12.
+2019/04/12 00:09:14: Peer [1003] received 'have' message from [1006] for the piece: 10.
+2019/04/12 00:09:14: Peer [1003] is choked by [1006].
+2019/04/12 00:09:19: Peer [1003] is unchoked by [1001].
+2019/04/12 00:09:19: Peer [1003] received 'have' message from [1006] for the piece: 5.
+2019/04/12 00:09:19: Peer [1003] received 'have' message from [1006] for the piece: 7.
+2019/04/12 00:09:19: Peer [1003] received 'have' message from [1006] for the piece: 0.
+2019/04/12 00:09:29: Peer [1003] is choked by [1001].
+2019/04/12 00:09:29: Peer [1003] received 'have' message from [1006] for the piece: 15.
+2019/04/12 00:09:29: Peer [1003] received 'have' message from [1006] for the piece: 11.
+2019/04/12 00:09:29: Peer [1003] received 'have' message from [1006] for the piece: 17.
+2019/04/12 00:09:34: Peer [1003] is unchoked by [1001].
+2019/04/12 00:09:39: Peer [1003] is choked by [1001].
+2019/04/12 00:09:39: Peer [1003] received 'have' message from [1006] for the piece: 8.
+2019/04/12 00:09:39: Peer [1003] received 'have' message from [1006] for the piece: 14.
+2019/04/12 00:09:39: Peer [1003] received 'have' message from [1006] for the piece: 6.
+2019/04/12 00:09:44: Peer [1003] is unchoked by [1001].
+2019/04/12 00:09:49: Peer [1003] is choked by [1001].
+2019/04/12 00:09:49: Peer [1003] received 'have' message from [1006] for the piece: 20.
+2019/04/12 00:10:09: Peer [1003] is unchoked by [1001].
+2019/04/12 00:10:29: Peer [1003] is choked by [1001].
+2019/04/12 00:10:29: Peer [1003] received 'have' message from [1004] for the piece: 13.
+2019/04/12 00:10:29: Peer [1003] received 'have' message from [1004] for the piece: 18.
+2019/04/12 00:13:07: Peer [1003] makes a connection to Peer [1001].
+2019/04/12 00:13:07: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:07: Peer [1003] makes a connection to Peer [1002].
+2019/04/12 00:13:07: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:13:07: Peer [1003] is unchoked by [1002].
+2019/04/12 00:13:07: Peer [1003] has downloaded the piece 16 from [1002].
+1.
+2019/04/12 00:13:07: Peer [1003] has downloaded the piece 8 from [1002].
+2.
+2019/04/12 00:13:07: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:07: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:13:07: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:07: Peer [1003] has downloaded the piece 13 from [1002].
+3.
+2019/04/12 00:13:07: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:13:07: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:07: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:13:08: Peer [1003] is unchoked by [1001].
+2019/04/12 00:13:08: Peer [1003] has downloaded the piece 19 from [1001].
+4.
+2019/04/12 00:13:08: Peer [1003] received 'have' message from [1002] for the piece: 11.
+2019/04/12 00:13:08: Peer [1003] has downloaded the piece 21 from [1001].
+5.
+2019/04/12 00:13:08: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:08: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:08: Peer [1003] received 'have' message from [1002] for the piece: 7.
+2019/04/12 00:13:08: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:08: Peer [1003] has downloaded the piece 3 from [1001].
+6.
+2019/04/12 00:13:08: Peer [1003] received 'have' message from [1002] for the piece: 2.
+2019/04/12 00:13:08: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:08: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:08: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:08: Peer [1003] received 'have' message from [1002] for the piece: 19.
+2019/04/12 00:13:08: Peer [1003] received 'have' message from [1002] for the piece: 21.
+2019/04/12 00:13:08: Peer [1003] received 'have' message from [1002] for the piece: 3.
+2019/04/12 00:13:12: Peer [1003] is connected from Peer [1004].
+2019/04/12 00:13:12: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:12: Peer [1003] received 'have' message from [1004] for the piece: 17.
+2019/04/12 00:13:12: Peer [1003] is unchoked by [1004].
+2019/04/12 00:13:12: Peer [1003] received 'have' message from [1004] for the piece: 21.
+2019/04/12 00:13:12: Peer [1003] has downloaded the piece 17 from [1004].
+7.
+2019/04/12 00:13:12: Peer [1003] received 'have' message from [1004] for the piece: 3.
+2019/04/12 00:13:12: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:13:12: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:12: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:12: Peer [1003] is choked by [1004].
+2019/04/12 00:13:12: Peer [1003] received 'have' message from [1004] for the piece: 13.
+2019/04/12 00:13:12: Peer [1003] received 'have' message from [1004] for the piece: 16.
+2019/04/12 00:13:12: Peer [1003] is choked by [1004].
+2019/04/12 00:13:12: Peer [1003] received 'have' message from [1004] for the piece: 19.
+2019/04/12 00:13:13: Peer [1003] is unchoked by [1001].
+2019/04/12 00:13:13: Peer [1003] has downloaded the piece 2 from [1001].
+8.
+2019/04/12 00:13:13: Peer [1003] received 'have' message from [1002] for the piece: 5.
+2019/04/12 00:13:13: Peer [1003] has downloaded the piece 15 from [1001].
+9.
+2019/04/12 00:13:13: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:13: Peer [1003] received 'have' message from [1002] for the piece: 1.
+2019/04/12 00:13:13: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:13: Peer [1003] received the 'not interested' message from [1002].
+2019/04/12 00:13:13: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:13: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:13: Peer [1003] has downloaded the piece 18 from [1001].
+10.
+2019/04/12 00:13:13: Peer [1003] received 'have' message from [1002] for the piece: 18.
+2019/04/12 00:13:13: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:13: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:13: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:13: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:14: Peer [1003] is connected from Peer [1005].
+2019/04/12 00:13:14: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:17: Peer [1003] received 'have' message from [1005] for the piece: 17.
+2019/04/12 00:13:17: Peer [1003] received 'have' message from [1005] for the piece: 3.
+2019/04/12 00:13:17: Peer [1003] received 'have' message from [1005] for the piece: 21.
+2019/04/12 00:13:17: Peer [1003] is unchoked by [1002].
+2019/04/12 00:13:17: Peer [1003] has downloaded the piece 11 from [1002].
+11.
+2019/04/12 00:13:17: Peer [1003] has downloaded the piece 1 from [1002].
+12.
+2019/04/12 00:13:17: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:17: Peer [1003] has downloaded the piece 7 from [1002].
+13.
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:17: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:17: Peer [1003] has downloaded the piece 5 from [1002].
+14.
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:17: Peer [1003] has downloaded the piece 12 from [1002].
+15.
+2019/04/12 00:13:17: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:17: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:17: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:17: Peer [1003] has downloaded the piece 10 from [1002].
+16.
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:17: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:17: Peer [1003] is connected from Peer [1006].
+2019/04/12 00:13:17: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:13:17: Peer [1003] received 'have' message from [1006] for the piece: 3.
+2019/04/12 00:13:17: Peer [1003] received 'have' message from [1006] for the piece: 21.
+2019/04/12 00:13:17: Peer [1003] received 'have' message from [1006] for the piece: 17.
+2019/04/12 00:13:18: Peer [1003] received 'have' message from [1004] for the piece: 5.
+2019/04/12 00:13:18: Peer [1003] received 'have' message from [1006] for the piece: 7.
+2019/04/12 00:13:18: Peer [1003] received 'have' message from [1004] for the piece: 14.
+2019/04/12 00:13:18: Peer [1003] received 'have' message from [1006] for the piece: 9.
+2019/04/12 00:13:18: Peer [1003] received 'have' message from [1004] for the piece: 1.
+2019/04/12 00:13:18: Peer [1003] received 'have' message from [1006] for the piece: 8.
+2019/04/12 00:13:18: Peer [1003] received 'have' message from [1005] for the piece: 9.
+2019/04/12 00:13:18: Peer [1003] received 'have' message from [1005] for the piece: 8.
+2019/04/12 00:13:18: Peer [1003] received 'have' message from [1005] for the piece: 7.
+2019/04/12 00:13:19: Peer [1003] received 'have' message from [1004] for the piece: 7.
+2019/04/12 00:13:19: Peer [1003] received 'have' message from [1004] for the piece: 8.
+2019/04/12 00:13:19: Peer [1003] received 'have' message from [1004] for the piece: 9.
+2019/04/12 00:13:22: Peer [1003] received 'have' message from [1002] for the piece: 14.
+2019/04/12 00:13:22: Peer [1003] received 'have' message from [1002] for the piece: 9.
+2019/04/12 00:13:23: Peer [1003] is unchoked by [1001].
+2019/04/12 00:13:23: Peer [1003] has downloaded the piece 0 from [1001].
+17.
+2019/04/12 00:13:23: Peer [1003] has downloaded the piece 4 from [1001].
+18.
+2019/04/12 00:13:23: Peer [1003] received 'have' message from [1006] for the piece: 20.
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:23: Peer [1003] received 'have' message from [1006] for the piece: 10.
+2019/04/12 00:13:23: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:23: Peer [1003] has downloaded the piece 6 from [1001].
+19.
+2019/04/12 00:13:23: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:23: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:23: Peer [1003] received 'have' message from [1006] for the piece: 6.
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:23: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:13:28: Peer [1003] is unchoked by [1001].
+2019/04/12 00:13:28: Peer [1003] has downloaded the piece 20 from [1001].
+20.
+2019/04/12 00:13:28: Peer [1003] received 'have' message from [1002] for the piece: 0.
+2019/04/12 00:13:28: Peer [1003] has downloaded the piece 14 from [1001].
+21.
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:28: Peer [1003] received 'have' message from [1002] for the piece: 4.
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:28: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:28: Peer [1003] has downloaded the piece 9 from [1001].
+22.
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:13:28: Peer [1003] has downloaded the complete file 
+2019/04/12 00:13:28: Peer [1003] received 'have' message from [1002] for the piece: 20.
+2019/04/12 00:13:28: Peer [1003] is choked by [1002].
+2019/04/12 00:13:28: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:28: Peer [1003] received the 'not interested' message from [1001].
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1006].
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1004].
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1005].
+2019/04/12 00:13:28: Peer [1003] received the 'interested' message from [1002].
+2019/04/12 00:13:33: Peer [1003] received 'have' message from [1004] for the piece: 10.
+2019/04/12 00:13:33: Peer [1003] received 'have' message from [1006] for the piece: 13.
+2019/04/12 00:13:33: Peer [1003] received 'have' message from [1004] for the piece: 20.
+2019/04/12 00:13:33: Peer [1003] received 'have' message from [1006] for the piece: 18.
+2019/04/12 00:13:33: Peer [1003] received 'have' message from [1004] for the piece: 6.
+2019/04/12 00:13:33: Peer [1003] received 'have' message from [1006] for the piece: 2.
+2019/04/12 00:13:38: Peer [1003] is unchoked by [1001].
+2019/04/12 00:13:38: Peer [1003] received 'have' message from [1002] for the piece: 6.
+2019/04/12 00:13:38: Peer [1003] received 'have' message from [1002] for the piece: 15.
+2019/04/12 00:13:43: Peer [1003] is choked by [1001].
+2019/04/12 00:13:43: Peer [1003] received 'have' message from [1004] for the piece: 0.
+2019/04/12 00:13:43: Peer [1003] received 'have' message from [1006] for the piece: 11.
+2019/04/12 00:13:43: Peer [1003] received 'have' message from [1004] for the piece: 11.
+2019/04/12 00:13:43: Peer [1003] received 'have' message from [1006] for the piece: 4.
+2019/04/12 00:13:43: Peer [1003] received 'have' message from [1006] for the piece: 14.
+2019/04/12 00:13:43: Peer [1003] received 'have' message from [1004] for the piece: 4.
+2019/04/12 00:13:48: Peer [1003] is unchoked by [1001].
+2019/04/12 00:13:48: Peer [1003] received 'have' message from [1006] for the piece: 1.
+2019/04/12 00:13:48: Peer [1003] received 'have' message from [1006] for the piece: 16.
+2019/04/12 00:13:48: Peer [1003] received 'have' message from [1006] for the piece: 0.
+2019/04/12 00:13:53: Peer [1003] is choked by [1001].
+2019/04/12 00:13:53: Peer [1003] received 'have' message from [1005] for the piece: 11.
+2019/04/12 00:13:53: Peer [1003] received 'have' message from [1005] for the piece: 10.
+2019/04/12 00:13:53: Peer [1003] received 'have' message from [1005] for the piece: 0.
+2019/04/12 00:13:58: Peer [1003] received 'have' message from [1004] for the piece: 15.
+2019/04/12 00:13:58: Peer [1003] received 'have' message from [1006] for the piece: 12.
+2019/04/12 00:13:58: Peer [1003] received 'have' message from [1004] for the piece: 2.
+2019/04/12 00:13:58: Peer [1003] received 'have' message from [1006] for the piece: 5.
+2019/04/12 00:13:58: Peer [1003] received 'have' message from [1004] for the piece: 18.
+2019/04/12 00:13:59: Peer [1003] received 'have' message from [1006] for the piece: 19.
+2019/04/12 00:14:04: Peer [1003] is unchoked by [1001].
+2019/04/12 00:14:04: Peer [1003] received 'have' message from [1006] for the piece: 15.
+2019/04/12 00:14:09: Peer [1003] is choked by [1001].
+2019/04/12 00:14:09: Peer [1003] received 'have' message from [1004] for the piece: 12.
+2019/04/12 00:14:14: Peer [1003] is unchoked by [1001].
+2019/04/12 00:14:24: Peer [1003] is choked by [1001].
+2019/04/12 00:14:29: Peer [1003] is unchoked by [1001].
+2019/04/12 00:14:34: Peer [1003] is choked by [1001].
+2019/04/12 00:14:34: Peer [1003] received 'have' message from [1005] for the piece: 13.
+2019/04/12 00:14:34: Peer [1003] received 'have' message from [1005] for the piece: 2.
+2019/04/12 00:14:34: Peer [1003] received 'have' message from [1005] for the piece: 12.
+2019/04/12 00:14:39: Peer [1003] is unchoked by [1001].
+2019/04/12 00:14:59: Peer [1003] is choked by [1001].
+2019/04/12 00:14:59: Peer [1003] received 'have' message from [1005] for the piece: 6.
+2019/04/12 00:14:59: Peer [1003] received 'have' message from [1005] for the piece: 19.
+2019/04/12 00:14:59: Peer [1003] received 'have' message from [1005] for the piece: 4.
+2019/04/12 00:15:14: Peer [1003] received 'have' message from [1005] for the piece: 1.
+2019/04/12 00:15:14: Peer [1003] received 'have' message from [1005] for the piece: 15.
+2019/04/12 00:15:14: Peer [1003] received 'have' message from [1005] for the piece: 5.
+2019/04/12 00:15:24: Peer [1003] is unchoked by [1001].
+2019/04/12 00:15:29: Peer [1003] is choked by [1001].
+2019/04/12 00:15:29: Peer [1003] received 'have' message from [1005] for the piece: 14.
+2019/04/12 00:15:29: Peer [1003] received 'have' message from [1005] for the piece: 18.
+2019/04/12 00:15:29: Peer [1003] received 'have' message from [1005] for the piece: 20.
+2019/04/12 00:15:34: Peer [1003] is unchoked by [1001].
+2019/04/12 00:15:39: Peer [1003] is choked by [1001].
+2019/04/12 00:15:39: Peer [1003] received 'have' message from [1005] for the piece: 16.
+19/04/12 00:19:54: Peer [1003] makes a connection to Peer [1001].
+19/04/12 00:19:54: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:19:54: Peer [1003] makes a connection to Peer [1002].
+19/04/12 00:19:54: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:19:54: Peer [1003] is unchoked by [1002].
+19/04/12 00:19:54: Peer [1003] has downloaded the piece 14 from [1002].
+1.
+19/04/12 00:19:54: Peer [1003] has downloaded the piece 11 from [1002].
+2.
+19/04/12 00:19:54: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:19:54: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:19:54: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:19:54: Peer [1003] has downloaded the piece 15 from [1002].
+3.
+19/04/12 00:19:54: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:19:54: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:19:54: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:19:56: Peer [1003] is unchoked by [1002].
+19/04/12 00:19:56: Peer [1003] has downloaded the piece 18 from [1002].
+4.
+19/04/12 00:19:56: Peer [1003] has downloaded the piece 9 from [1002].
+5.
+19/04/12 00:19:56: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:19:56: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:19:56: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:19:56: Peer [1003] has downloaded the piece 2 from [1002].
+6.
+19/04/12 00:19:56: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:19:56: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:19:56: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:19:57: Peer [1003] is connected from Peer [1004].
+19/04/12 00:19:57: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:19:57: Peer [1003] received 'have' message from [1004] for the piece: 18.
+19/04/12 00:19:57: Peer [1003] received 'have' message from [1004] for the piece: 14.
+19/04/12 00:19:57: Peer [1003] is choked by [1004].
+19/04/12 00:19:57: Peer [1003] received 'have' message from [1004] for the piece: 15.
+19/04/12 00:19:57: Peer [1003] received 'have' message from [1002] for the piece: 12.
+19/04/12 00:19:57: Peer [1003] received 'have' message from [1004] for the piece: 19.
+19/04/12 00:19:57: Peer [1003] received 'have' message from [1002] for the piece: 20.
+19/04/12 00:19:57: Peer [1003] is unchoked by [1004].
+19/04/12 00:19:57: Peer [1003] received 'have' message from [1004] for the piece: 11.
+19/04/12 00:19:57: Peer [1003] received 'have' message from [1002] for the piece: 6.
+19/04/12 00:19:57: Peer [1003] has downloaded the piece 19 from [1004].
+7.
+19/04/12 00:19:57: Peer [1003] received 'have' message from [1004] for the piece: 10.
+19/04/12 00:19:57: Peer [1003] received the 'interested' message from [1002].
+19/04/12 00:19:57: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:19:57: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:19:59: Peer [1003] received 'have' message from [1002] for the piece: 19.
+19/04/12 00:20:00: Peer [1003] is connected from Peer [1005].
+19/04/12 00:20:00: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:02: Peer [1003] received 'have' message from [1004] for the piece: 21.
+19/04/12 00:20:02: Peer [1003] received 'have' message from [1004] for the piece: 2.
+19/04/12 00:20:02: Peer [1003] received 'have' message from [1004] for the piece: 20.
+19/04/12 00:20:02: Peer [1003] received 'have' message from [1005] for the piece: 12.
+19/04/12 00:20:02: Peer [1003] received 'have' message from [1005] for the piece: 13.
+19/04/12 00:20:02: Peer [1003] is unchoked by [1005].
+19/04/12 00:20:02: Peer [1003] has downloaded the piece 12 from [1005].
+8.
+19/04/12 00:20:02: Peer [1003] received 'have' message from [1005] for the piece: 6.
+19/04/12 00:20:02: Peer [1003] has downloaded the piece 13 from [1005].
+9.
+19/04/12 00:20:02: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:20:02: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:02: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:02: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:02: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:02: Peer [1003] has downloaded the piece 6 from [1005].
+10.
+19/04/12 00:20:02: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:02: Peer [1003] received the 'interested' message from [1002].
+19/04/12 00:20:02: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:02: Peer [1003] received the 'interested' message from [1002].
+19/04/12 00:20:02: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:02: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:02: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:03: Peer [1003] is connected from Peer [1006].
+19/04/12 00:20:03: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:05: Peer [1003] received 'have' message from [1006] for the piece: 12.
+19/04/12 00:20:05: Peer [1003] received 'have' message from [1006] for the piece: 6.
+19/04/12 00:20:05: Peer [1003] received 'have' message from [1006] for the piece: 13.
+19/04/12 00:20:05: Peer [1003] received 'have' message from [1004] for the piece: 12.
+19/04/12 00:20:05: Peer [1003] received 'have' message from [1004] for the piece: 13.
+19/04/12 00:20:05: Peer [1003] received 'have' message from [1004] for the piece: 6.
+19/04/12 00:20:07: Peer [1003] received 'have' message from [1006] for the piece: 14.
+19/04/12 00:20:07: Peer [1003] received 'have' message from [1005] for the piece: 9.
+19/04/12 00:20:07: Peer [1003] is choked by [1005].
+19/04/12 00:20:07: Peer [1003] received 'have' message from [1006] for the piece: 9.
+19/04/12 00:20:07: Peer [1003] received 'have' message from [1005] for the piece: 21.
+19/04/12 00:20:07: Peer [1003] received 'have' message from [1006] for the piece: 20.
+19/04/12 00:20:07: Peer [1003] received 'have' message from [1005] for the piece: 8.
+19/04/12 00:20:08: Peer [1003] received 'have' message from [1005] for the piece: 14.
+19/04/12 00:20:08: Peer [1003] received 'have' message from [1005] for the piece: 20.
+19/04/12 00:20:12: Peer [1003] received 'have' message from [1002] for the piece: 0.
+19/04/12 00:20:12: Peer [1003] received 'have' message from [1006] for the piece: 21.
+19/04/12 00:20:12: Peer [1003] received 'have' message from [1002] for the piece: 7.
+19/04/12 00:20:12: Peer [1003] received 'have' message from [1002] for the piece: 21.
+19/04/12 00:20:12: Peer [1003] received 'have' message from [1006] for the piece: 2.
+19/04/12 00:20:12: Peer [1003] received 'have' message from [1006] for the piece: 1.
+19/04/12 00:20:17: Peer [1003] is unchoked by [1001].
+19/04/12 00:20:17: Peer [1003] has downloaded the piece 8 from [1001].
+11.
+19/04/12 00:20:17: Peer [1003] received 'have' message from [1002] for the piece: 4.
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1002].
+19/04/12 00:20:17: Peer [1003] has downloaded the piece 10 from [1001].
+12.
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:17: Peer [1003] received 'have' message from [1002] for the piece: 1.
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:17: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:17: Peer [1003] has downloaded the piece 3 from [1001].
+13.
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:17: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:17: Peer [1003] received 'have' message from [1002] for the piece: 17.
+19/04/12 00:20:17: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1002].
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1002].
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:17: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:22: Peer [1003] received 'have' message from [1004] for the piece: 17.
+19/04/12 00:20:22: Peer [1003] received 'have' message from [1002] for the piece: 3.
+19/04/12 00:20:22: Peer [1003] received 'have' message from [1004] for the piece: 16.
+19/04/12 00:20:22: Peer [1003] received 'have' message from [1002] for the piece: 13.
+19/04/12 00:20:22: Peer [1003] received 'have' message from [1002] for the piece: 8.
+19/04/12 00:20:22: Peer [1003] received 'have' message from [1004] for the piece: 0.
+19/04/12 00:20:27: Peer [1003] is unchoked by [1001].
+19/04/12 00:20:27: Peer [1003] has downloaded the piece 7 from [1001].
+14.
+19/04/12 00:20:27: Peer [1003] received 'have' message from [1002] for the piece: 10.
+19/04/12 00:20:27: Peer [1003] has downloaded the piece 17 from [1001].
+15.
+19/04/12 00:20:27: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:20:27: Peer [1003] received 'have' message from [1002] for the piece: 5.
+19/04/12 00:20:27: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:27: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:27: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:27: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:27: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:27: Peer [1003] has downloaded the piece 21 from [1001].
+16.
+19/04/12 00:20:27: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:27: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:27: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:20:27: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:27: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:27: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:20:27: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:27: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:27: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:27: Peer [1003] received 'have' message from [1002] for the piece: 16.
+19/04/12 00:20:32: Peer [1003] is unchoked by [1001].
+19/04/12 00:20:32: Peer [1003] has downloaded the piece 4 from [1001].
+17.
+19/04/12 00:20:32: Peer [1003] received 'have' message from [1004] for the piece: 8.
+19/04/12 00:20:32: Peer [1003] has downloaded the piece 20 from [1001].
+18.
+19/04/12 00:20:32: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:20:32: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:32: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:32: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:32: Peer [1003] received 'have' message from [1004] for the piece: 3.
+19/04/12 00:20:32: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:32: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:20:32: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:32: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:32: Peer [1003] has downloaded the piece 0 from [1001].
+19.
+19/04/12 00:20:32: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:32: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:32: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:20:32: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:32: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:32: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:32: Peer [1003] received 'have' message from [1004] for the piece: 9.
+19/04/12 00:20:32: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:37: Peer [1003] received 'have' message from [1004] for the piece: 5.
+19/04/12 00:20:37: Peer [1003] received 'have' message from [1006] for the piece: 16.
+19/04/12 00:20:37: Peer [1003] received 'have' message from [1004] for the piece: 7.
+19/04/12 00:20:37: Peer [1003] received 'have' message from [1006] for the piece: 3.
+19/04/12 00:20:37: Peer [1003] received 'have' message from [1004] for the piece: 4.
+19/04/12 00:20:37: Peer [1003] received 'have' message from [1006] for the piece: 4.
+19/04/12 00:20:42: Peer [1003] is unchoked by [1001].
+19/04/12 00:20:42: Peer [1003] has downloaded the piece 5 from [1001].
+20.
+19/04/12 00:20:42: Peer [1003] received 'have' message from [1005] for the piece: 0.
+19/04/12 00:20:42: Peer [1003] has downloaded the piece 16 from [1001].
+21.
+19/04/12 00:20:42: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:42: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:42: Peer [1003] received the 'not interested' message from [1004].
+19/04/12 00:20:42: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:42: Peer [1003] received 'have' message from [1005] for the piece: 16.
+19/04/12 00:20:42: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:20:42: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:42: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:42: Peer [1003] received the 'not interested' message from [1004].
+19/04/12 00:20:42: Peer [1003] has downloaded the piece 1 from [1001].
+22.
+19/04/12 00:20:42: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:20:42: Peer [1003] has downloaded complete file 
+19/04/12 00:20:42: Peer [1003] received 'have' message from [1005] for the piece: 10.
+19/04/12 00:20:42: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:42: Peer [1003] received the 'not interested' message from [1002].
+19/04/12 00:20:42: Peer [1003] received the 'interested' message from [1004].
+19/04/12 00:20:42: Peer [1003] received the 'not interested' message from [1001].
+19/04/12 00:20:42: Peer [1003] received the 'interested' message from [1005].
+19/04/12 00:20:42: Peer [1003] received the 'interested' message from [1006].
+19/04/12 00:20:47: Peer [1003] is unchoked by [1001].
+19/04/12 00:20:47: Peer [1003] received 'have' message from [1004] for the piece: 1.
+19/04/12 00:20:57: Peer [1003] is choked by [1001].
+19/04/12 00:21:02: Peer [1003] is unchoked by [1001].
+19/04/12 00:21:02: Peer [1003] received 'have' message from [1006] for the piece: 11.
+19/04/12 00:21:02: Peer [1003] received 'have' message from [1006] for the piece: 15.
+19/04/12 00:21:02: Peer [1003] received 'have' message from [1006] for the piece: 7.
+19/04/12 00:21:07: Peer [1003] is choked by [1001].
+19/04/12 00:21:07: Peer [1003] received 'have' message from [1005] for the piece: 11.
+19/04/12 00:21:07: Peer [1003] received 'have' message from [1005] for the piece: 2.
+19/04/12 00:21:07: Peer [1003] received 'have' message from [1005] for the piece: 4.
+19/04/12 00:21:17: Peer [1003] is unchoked by [1001].
+19/04/12 00:21:22: Peer [1003] is choked by [1001].
+19/04/12 00:21:22: Peer [1003] received 'have' message from [1005] for the piece: 7.
+19/04/12 00:21:22: Peer [1003] received 'have' message from [1005] for the piece: 5.
+19/04/12 00:21:22: Peer [1003] received 'have' message from [1005] for the piece: 18.
+19/04/12 00:21:27: Peer [1003] received 'have' message from [1005] for the piece: 1.
+19/04/12 00:21:27: Peer [1003] received 'have' message from [1005] for the piece: 15.
+19/04/12 00:21:27: Peer [1003] received 'have' message from [1005] for the piece: 19.
+19/04/12 00:21:32: Peer [1003] is unchoked by [1001].
+19/04/12 00:21:33: Peer [1003] received 'have' message from [1006] for the piece: 5.
+19/04/12 00:21:33: Peer [1003] received 'have' message from [1006] for the piece: 10.
+19/04/12 00:21:33: Peer [1003] received 'have' message from [1006] for the piece: 8.
+19/04/12 00:21:38: Peer [1003] received 'have' message from [1006] for the piece: 19.
+19/04/12 00:21:38: Peer [1003] received 'have' message from [1006] for the piece: 17.
+19/04/12 00:21:38: Peer [1003] received 'have' message from [1006] for the piece: 0.
+19/04/12 00:21:48: Peer [1003] is choked by [1001].
+19/04/12 00:21:48: Peer [1003] received 'have' message from [1005] for the piece: 3.
+19/04/12 00:21:48: Peer [1003] received 'have' message from [1005] for the piece: 17.
+19/04/12 00:21:53: Peer [1003] received 'have' message from [1006] for the piece: 18.

@@ -1,0 +1,31 @@
+1. I have shifted connections.put() on th server side towards the end due to the bug.
+  - because I was getting Error Java net Socketexception connection reset error, which occurs, when, when peers receive data it cant proces. 
+  - There are 2 fixes available
+    - put connections.put(), down
+    - or put a timer.sleep() in the reader thread strart. 
+
+
+2.               // if (!peer.isChoked()) {
+              // peer.choke();
+              // peer.sendMessage(CHOKE);
+              // } --> in NOT_INTERESTED
+
+
+
+3. -----------------------------------
+          // Thread.sleep(5000);
+          // System.exit(0);
+    in reader thread...
+
+
+
+4. ----------------------------------------
+
+After the file is transfered peer remains UNCHOKED, because of that the sender will not send message.
+
+After download is completed. 
+
+INTERESTED = is not changed. (this could be modified)
+CHOKED = false
+
+  
